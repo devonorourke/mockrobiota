@@ -1,0 +1,13 @@
+name    value
+citation        NA
+qiita-id        NA
+raw-data-url-forward-read       see README.md for links to each of four replicates samples; all data availble as BioSamples at BioProject 518082
+raw-data-url-reverse-read       see README.md for links to each of four replicates samples; all data availble as BioSamples at BioProject 518082
+raw-data-url-index-read NA
+target-gene     COI
+target-subfragment      NA
+study-type      marker-gene
+sequencing-instrument   illumina-miseq
+physical-specimen-available     No
+contact-email   devon@outermostlab.com
+GitHub-repo https://github.com/devonorourke/tidybug
