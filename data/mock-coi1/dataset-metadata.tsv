@@ -1,8 +1,8 @@
 name	value
 citation	NA
 qiita-id	NA
-raw-data-url-forward-read	see README.md for links to each of four replicates samples; all data availble as BioSamples at BioProject 518082
-raw-data-url-reverse-read	see README.md for links to each of four replicates samples; all data availble as BioSamples at BioProject 518082
+raw-data-url-forward-read	https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR8536507
+raw-data-url-reverse-read	https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR8536507
 raw-data-url-index-read	NA
 target-gene	COI
 target-subfragment	NA
