@@ -5,12 +5,7 @@ DNA extracted from voucher arthropod specimen was amplified using ANML primers d
 #  Known Issues / Notes
 
 Note:
-Four replicate sample of the same mock sample described above were sequenced in conjunction with hundreds of bat guano samples across independent MiSeq runs. All data are availble as BioSamples [here at NCBI](https://www.ncbi.nlm.nih.gov/bioproject/518082). Individual sequence data specific to each mock sample are linked below:
-
-- mock p4L1 (referred to as `LibraryA` in the subsequent paper) [here](https://www.ncbi.nlm.nih.gov/biosample/10876359)
-- mock p4L2 (referred to as `LibraryB` in the subsequent paper) [here](https://www.ncbi.nlm.nih.gov/biosample/10876813)
-- mock p7L1 (referred to as `LibraryC` in the subsequent paper) [here](https://www.ncbi.nlm.nih.gov/biosample/10877265)
-- mock p7L2 (referred to as `LibraryD` in the subsequent paper) [here](https://www.ncbi.nlm.nih.gov/biosample/10877752)
+The mock sample described above was sequenced in conjunction with hundreds of bat guano samples in a single MiSeq run. All data are availble as BioSamples [here at NCBI](https://www.ncbi.nlm.nih.gov/bioproject/518082). Individual sequence data specific to the mock sample are found in the `file` document.
 
 These reads contain dual-index barcodes modeled after the Schloss lab [workflow described here](https://github.com/SchlossLab/MiSeq_WetLab_SOP/blob/master/MiSeq_WetLab_SOP.md). Reads were processed in QIIME2 as described in [this GitHub repo](https://github.com/devonorourke/tidybug/blob/master/docs/sequence_filtering.md#raw-sequence-data-processing).
 
