@@ -5,7 +5,7 @@ DNA extracted from voucher arthropod specimen was amplified using ANML primers d
 #  Known Issues / Notes
 
 Note:
-The mock sample described above was sequenced in conjunction with hundreds of bat guano samples in a single MiSeq run. All data are availble as BioSamples [here at NCBI](https://www.ncbi.nlm.nih.gov/bioproject/518082). Individual sequence data specific to the mock sample are found in the `file` document.
+The mock sample described above was sequenced in conjunction with hundreds of bat guano samples in a single MiSeq run. All data are availble as BioSamples [here at NCBI](https://www.ncbi.nlm.nih.gov/bioproject/518082). Individual sequence data specific to the mock sample are found in the `dataset-metadata.tsv` document.
 
 These reads contain dual-index barcodes modeled after the Schloss lab [workflow described here](https://github.com/SchlossLab/MiSeq_WetLab_SOP/blob/master/MiSeq_WetLab_SOP.md). Reads were processed in QIIME2 as described in [this GitHub repo](https://github.com/devonorourke/tidybug/blob/master/docs/sequence_filtering.md#raw-sequence-data-processing).
 
